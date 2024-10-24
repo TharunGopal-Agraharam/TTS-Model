@@ -1,6 +1,4 @@
 # TTS-Model
-Here’s a sample **README** file for your GitHub repository, showcasing the assignment on fine-tuning TTS models for English technical speech and regional languages.
-
 ---
 
 # Fine-tuning Text-to-Speech (TTS) Models for English Technical Speech and Regional Languages
